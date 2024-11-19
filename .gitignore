@@ -2,3 +2,9 @@
 
 build/
 
+# 3rd
+ceres_example/ceres_dir/build/
+ceres_example/ceres_dir/*.lock
+ceres_example/ceres_dir/*.cmake
+ceres_example/ceres_dir/*.json
+ceres_example/ceres_dir/conanbuildinfo.txt
